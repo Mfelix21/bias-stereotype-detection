@@ -15,4 +15,4 @@ OpenAI API and Microsoft Phi for classification & labeling
 Jupyter Notebooks for analysis and experimentation
 
 
-I worked on instruction tuning for the classification and Rhetoric label for Microsoft Phi while also working on all three categories for Open ai.
+I worked on instruction/fine-tuning for the classification and Rhetoric label for Microsoft Phi while also working on all three categories for Open ai.
